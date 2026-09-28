@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# C++
+*.out
+*.exe
+*.o
+*.obj
+
+# Mac / Środowisko
+.vscode/
+.DS_Store
